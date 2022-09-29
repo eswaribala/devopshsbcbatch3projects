@@ -27,6 +27,6 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - name: execute js file
-       run: |
+      run: |
          node javascriptexamples/pdftobase64.js
     
