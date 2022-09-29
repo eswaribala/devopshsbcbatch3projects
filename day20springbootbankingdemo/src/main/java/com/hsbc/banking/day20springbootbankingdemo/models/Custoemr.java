@@ -6,7 +6,7 @@ private String email;
 
 private int customerId;
 private String customerName;
-
+private String gender;
 
 
 }
