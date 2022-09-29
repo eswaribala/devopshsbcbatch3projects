@@ -1,4 +1,4 @@
 firstName="Parameswari"
 lastName="Bala"
-profile='Trainer"
+profile="Trainer"
 console.log(firstName+","+lastName);
