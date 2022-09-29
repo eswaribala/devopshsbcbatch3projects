@@ -1,13 +1,16 @@
 class Customer{
 #user1 modified
 #user2 modified
+<<<<<<< HEAD
 private int userId;
 private String email;
+=======
 
 private int customerId;
 private String customerName;
-private boolean status;
-private String gender;
+
+>>>>>>> c7bc5e9965ac0d74f911c560ce229763a9eb1d84
+
 
 
 }
