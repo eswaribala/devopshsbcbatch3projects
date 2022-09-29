@@ -7,6 +7,7 @@ private String email;
 private int customerId;
 private String customerName;
 private boolean status;
+private String gender;
 
 
 }
