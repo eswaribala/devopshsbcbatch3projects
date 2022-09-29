@@ -4,6 +4,9 @@ class Customer{
 private int userId;
 private String email;
 
+private int customerId;
+private String customerName;
+
 
 
 }
